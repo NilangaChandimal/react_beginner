@@ -2,6 +2,9 @@ import BodyContent from "./Components/BodyContent/BodyContent";
 // import FooterContent from "./Components/FooterContent/FooterContent";
 import NavContent from "./Components/NavContent/NavContent";
 import Counter from "./Components/Counter/Counter";
+import Rest from "./Components/Rest/Rest";
+import Spread from "./Components/Spread/Spread";
+import Input from "./Components/Input/Input";
 
 function App() {
 //   const firstname = "Nilanga";
@@ -52,6 +55,9 @@ function App() {
         </BodyContent>  
         {/* <FooterContent/> */}
         <Counter/>
+        <Rest/>
+        <Spread/>
+        <Input/>
       </div>
 
 
