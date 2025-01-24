@@ -5,6 +5,9 @@ import Counter from "./Components/Counter/Counter";
 import Rest from "./Components/Rest/Rest";
 import Spread from "./Components/Spread/Spread";
 import Input from "./Components/Input/Input";
+import ApiEx from "./Components/ApiEx/ApiEx";
+import GoogleFont from "./Components/GoogleFont/GoogleFont";
+import Comp1 from "./Components/UseContentHook/Comp1";
 
 function App() {
 //   const firstname = "Nilanga";
@@ -58,6 +61,10 @@ function App() {
         <Rest/>
         <Spread/>
         <Input/>
+        <ApiEx/>
+        <GoogleFont/>
+        <br />
+        <Comp1/>
       </div>
 
 

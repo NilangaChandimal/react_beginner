@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+h2 {
+  color: aliceblue;
+}
+.one {
+  font-family: "Poppins", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.two {
+  font-family: "Roboto Condensed", serif;
+  font-optical-sizing: auto;
+  font-weight: 5rem;
+  font-style: normal;
+}

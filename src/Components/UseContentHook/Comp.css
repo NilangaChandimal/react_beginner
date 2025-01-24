@@ -1,0 +1,19 @@
+.box1{
+    background-color: aqua;
+    padding: 2em;
+}
+.box2{
+    background-color: rgb(255, 0, 212);
+    padding: 2em;
+}
+.box3{
+    background-color: rgb(82, 226, 16);
+    padding: 2em;
+}
+.box4{
+    background-color: rgb(212, 211, 107);
+    padding: 2em;
+}
+.p{
+    color: black;
+}
