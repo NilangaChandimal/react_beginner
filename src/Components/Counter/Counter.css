@@ -1,0 +1,11 @@
+h1 {
+    color: aliceblue;
+}
+button{
+    padding: 1rem 2rem;
+    background-color: rgb(171, 212, 20);
+    border-radius: 1rem;
+}
+p{
+    color: wheat;
+}

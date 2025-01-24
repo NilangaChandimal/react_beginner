@@ -1,0 +1,11 @@
+.link{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 3px 16px;
+}
+.link:hover{
+    background-color: rgb(34, 29, 29);
+    padding: 3px 16px;
+    text-decoration: none;
+    border-radius: 13px;
+}
